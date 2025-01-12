@@ -36,3 +36,9 @@ Run individual classes to test specific algorithms.
 Contribution
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
 
+#Connect with Me
+I'm always open to connect with fellow developers and collaborators. Feel free to reach out to me through the following channels:
+
+Email: jonsimisharwal@gmail.com
+LinkedIn: https://www.linkedin.com/in/jonsi-misharwal-24295b286/
+
